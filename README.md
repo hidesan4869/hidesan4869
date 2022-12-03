@@ -21,3 +21,5 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/hidesan4869/contributions.svg" />
   </a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?hidesan4869=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
