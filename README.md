@@ -1,7 +1,7 @@
 ## 👋 Hi! I'm hidesan4869
 
 <p align="left">
-  <img width="100%" height="auto" src="https://github.com/hidesan4869/hidesan4869/blob/main/img/ActivePiercingLeech-max-1mb.gif">
+  <img width="100%" height="auto" src="https://github.com/hidesan4869/hidesan4869/blob/main/img/asunoyozora.jpg">
 </p>
 
 <p align="left">
