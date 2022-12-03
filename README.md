@@ -25,12 +25,12 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=hidesan4869&rank=S,AAA,AA,A,B,C&theme=dracula)](https://github.com/hidesan4869/github-profile-trophy)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidesan4869&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidesan4869&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hidesan4869&count_private=true&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hidesan4869&theme=dracula)
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hidesan4869&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hidesan4869&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hidesan4869&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hidesan4869&theme=dracula&utcOffset=8)
