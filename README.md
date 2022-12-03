@@ -23,7 +23,7 @@
 </p>
 
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=hidesan4869&rank=S,AAA,AA,A,B,C&theme=onedark)](https://github.com/hidesan4869/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hidesan4869&rank=S,AAA,AA,A,B,C&theme=dracula)](https://github.com/hidesan4869/github-profile-trophy)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidesan4869&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&theme=radical)
