@@ -22,12 +22,27 @@
   </a>
 </p>
 
-  
 [![trophy](https://github-profile-trophy.vercel.app/?username=hidesan4869&rank=S,AAA,AA,A,B,C&theme=dracula)](https://github.com/hidesan4869/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidesan4869&layout=compact&theme=dracula)](https://github.com/hidesan4869/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hidesan4869&count_private=true&theme=dracula)
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidesan4869&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=dracula" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hidesan4869&count_private=true&show_icons=true&show_icons=true&theme=dracula" />
+</p>
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hidesan4869&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hidesan4869&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hidesan4869&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hidesan4869&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hidesan4869&theme=dracula&utcOffset=8)
+
+### Development Environment
+
+- Favorite Languages: JavaScript, Vue.js, Laravel
+- Editor: VSCode
+- Shell: bash
+- Terminal: Windows Terminal / Tera Term
+- OS: Windows10
+- PC: mouse computer
+- Keyboard: Logicool(G913 TKL)
+- Mouse: Logicool(M705m)
+- Smartphone: IPhoneSE
