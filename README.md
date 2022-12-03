@@ -40,7 +40,7 @@
 ### Development Environment
 
 - Favorite Languages: JavaScript, Vue.js, Laravel
-- Editor: VSCode
+- Editor: Visual Studio Code
 - Shell: bash
 - Terminal: Windows Terminal / Tera Term
 - OS: Windows10
