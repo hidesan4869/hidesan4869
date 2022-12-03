@@ -22,4 +22,4 @@
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hidesan4869&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hidesan4869&show_icons=true&theme=radical)
