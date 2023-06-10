@@ -38,26 +38,25 @@
     - TypeScript(Nest.js)
     - Vue.js(2.x, 3.x)
         - Vuetify
-    - Node.js(Express)
 - バックエンド
     - PHP(Codeigniter, Laravel, Symfony)
     - TypeScript(Nest.js)
     - Python
         - 2023/06より学習開始
+    - Node.js(Express, Nest.js)
 - マークアップ
     - SCSS
     - tailwindCSS
 - Jenkins
 - Docker
 - Git
+- Linux
 
 #### DB, KVS, サーバ, クラウド
 - MySQL
 - PostgresSQL
 - nginx
 - Apache
-
-***
 
 ## 経験領域
 
@@ -88,3 +87,16 @@
     - 顧客が入力したテキストを移動、回転等を自由に変更できる機能
     - 移動させた座標を計算するのに苦労しました。
         - また画像情報にiOsの場合に特殊な数値をもっているため調整するのに苦労しました。
+
+## その他 / 学習中
+- ネットワーク
+    - 専門的な用語はなんとなく分かる
+        - 知らない単語があれば検索し、どの階層の話をしているか理解できる。物理層からアプリケーション層
+        - 基本情報の学習を少しかじったことがある
+
+- Linux(CentOS, Ubunts)
+    - 基本的なコマンドを叩け、ログの情報から現在起きているバグや原因を調査して一人で対応できることもある。
+
+- クラウド
+    - ほぼ未経験
+        - 自主学習でAWS、GCPを触ったことがある程度
