@@ -46,9 +46,9 @@
 - Favorite Languages: Python, TypeScript, PHP
 - Frameworks: Next.js Vue.js, Laravel, Symfony, Codeigniter
 - Editor: Visual Studio Code
-- Shell: bash
+- Shell: bash, fish
 - Terminal: Windows Terminal / Tera Term
-- OS: Windows10
+- OS: Windows11
 - PC: mouse computer
 - Keyboard: Logicool(G913 TKL)
 - Mouse: Logicool(M705m)
