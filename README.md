@@ -43,7 +43,8 @@
 
 ### Development Environment
 
-- Favorite Languages: JavaScript, Vue.js, Laravel
+- Favorite Languages: Python, TypeScript, PHP
+- Frameworks: Next.js Vue.js, Laravel, Symfony, Codeigniter
 - Editor: Visual Studio Code
 - Shell: bash
 - Terminal: Windows Terminal / Tera Term
