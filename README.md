@@ -35,7 +35,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hidesan4869&count_private=true&show_icons=true&show_icons=true&theme=dracula" />
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,symfony,php,ts,js,react,next,vue,vuetify,python,aws,docker,jenkins,html,sass,tailwind,css,bash,powershell,github,notion,npm)](https://skillicons.dev)
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hidesan4869&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hidesan4869&theme=dracula)
